@@ -7,7 +7,7 @@ const Footer = () => {
         <div>
           <h2 className="text-2xl font-bold text-[#18A7B9]">Construction</h2>
           <p className="text-xl text-gray-400 leading-8 py-4">
-            You'll find your next Home <br /> loan valu you prefer.
+            You&#39;ll find your next Home <br /> loan valu you prefer.
           </p>
           <div className="flex space-x-5">
             <div className="h-10 w-10 grid place-items-center bg-[#18A7B9] rounded-xl">
